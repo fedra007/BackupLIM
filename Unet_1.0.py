@@ -9,7 +9,7 @@ import pandas as pd
 
 #Numero de clases 0: Blured 1: Corn1 2:Corn2 3:Corn3 4:Corn4 5:Unknown 6:Potato 7:River 8:Road 9:Building 
 Num_Clases = 10
-
+Otra_Clase=4
 #Path to the images and masks
 imDir='/home/fedra/Documents/SANT_test'
 filesDir='/home/fedra/Documents/SANT_test'
